@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Giant Pandas",
+    "img": "../../assets/images/slider_01.jpg",
+    "icon": "../../assets/icons/banana-bamboo_icon.svg",
+    "description": "Native to Southwest China"
+  },
+  {
+    "name": "Eagles",
+    "img": "../../assets/images/slider_02.jpg",
+    "icon": "../../assets/icons/meet-fish_icon.svg",
+    "description": "Native to South America"
+  },
+  {
+    "name": "Gorillas",
+    "img": "../../assets/images/slider_03.jpg",
+    "icon": "../../assets/icons/banana-bamboo_icon.svg",
+    "description": "Native to Congo"
+  },
+  {
+    "name": "Two-toed Sloth",
+    "img": "../../assets/images/slider_04.jpg",
+    "icon": "../../assets/icons/banana-bamboo_icon.svg",
+    "description": "Mesoamerica, South America"
+  },
+  {
+    "name": "Cheetahs",
+    "img": "../../assets/images/slider_05.jpg",
+    "icon": "../../assets/icons/meet-fish_icon.svg",
+    "description": "Native to Africa"
+  },
+  {
+    "name": "Penguins",
+    "img": "../../assets/images/slider_06.jpg",
+    "icon": "../../assets/icons/meet-fish_icon.svg",
+    "description": "Native to Antarctica"
+  }
+]
